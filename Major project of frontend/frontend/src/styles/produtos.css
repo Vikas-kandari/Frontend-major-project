@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+  background-color: rgb(136, 78, 8);
+  font-size: 50px;
+}
+
+.cards {
+  justify-content: space-around;
+}
